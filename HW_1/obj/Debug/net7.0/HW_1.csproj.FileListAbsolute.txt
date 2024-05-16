@@ -1,0 +1,15 @@
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/bin/Debug/net7.0/HW_1
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/bin/Debug/net7.0/HW_1.deps.json
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/bin/Debug/net7.0/HW_1.runtimeconfig.json
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/bin/Debug/net7.0/HW_1.dll
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/bin/Debug/net7.0/HW_1.pdb
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.csproj.AssemblyReference.cache
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.AssemblyInfoInputs.cache
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.AssemblyInfo.cs
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.csproj.CoreCompileInputs.cache
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.dll
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/refint/HW_1.dll
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.pdb
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/HW_1.genruntimeconfig.cache
+/Users/nikolaykyrylishyn/Desktop/Projects/HillelHomeWork/Lesson3/HW_1/obj/Debug/net7.0/ref/HW_1.dll
